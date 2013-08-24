@@ -4,7 +4,7 @@ Auto-Affiliate
 This chrome extension allows you to have users automatically affiliate with your website. You can edit the affiliate ID to be whatever your ID is (default mine). Currently this supports:
 <ul>
   <li>Amazon.ca</li>
-<ul>
+</ul>
 
 Other programs will be added.
 
